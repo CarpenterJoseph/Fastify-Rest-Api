@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a897a443-6e68-4618-83c7-cb1b884dc5bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sWcbF94fB7bQsITSIl5WW3DeM0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joe\Desktop\Bachelor Project\Fastify REST API\models" />
+      <recent name="C:\Users\Joe\Desktop\Bachelor Project\Fastify REST API\controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a897a443-6e68-4618-83c7-cb1b884dc5bf" name="Default Changelist" comment="" />
+      <created>1620991855929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620991855929</updated>
+      <workItem from="1620991857007" duration="7893000" />
+      <workItem from="1621007678688" duration="1885000" />
+      <workItem from="1622237946574" duration="1429000" />
+      <workItem from="1622556450610" duration="2000" />
+      <workItem from="1622648390170" duration="1021000" />
+      <workItem from="1623104825264" duration="597000" />
+      <workItem from="1623107790592" duration="4083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623109454538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623109454538" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1621005363011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621005363011" />
+  </component>
+</project>
